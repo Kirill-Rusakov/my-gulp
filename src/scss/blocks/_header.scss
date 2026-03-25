@@ -1,0 +1,10 @@
+.header {
+
+    background-image: url('./../img/project.png');
+    font-weight: 700;
+    color: #0F0;
+
+    @media(max-width: 1200px) {
+        font-size: 15px;
+    }
+}
